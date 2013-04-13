@@ -1,4 +1,4 @@
-WAMP - Apache VirtualHost Console (msygit)
+WAMP - Apache VirtualHost Console (msysgit)
 ==========================================
 A simple bash script that creates a virtual host in Apache on Windows with WAMP.
 
