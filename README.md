@@ -4,7 +4,7 @@ A simple bash script that creates a virtual host in Apache on Windows with WAMP.
 
 How to use
 ----------
-``sudo sh ./vhost.sh domain path``
+``sh ./vhost.sh domain path``
 
 (e.g. ``sh vhost.sh project.dev 'D:\project'``)
 
